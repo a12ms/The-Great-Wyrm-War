@@ -1,6 +1,5 @@
 # The Great Wyrm War
 My first (semi) big personal programing project.
-You can check it out and participate via greendownhill.ir .
 The project was for my homebrew DND campaing, and my friends could vote to join the army of one of the dragons and impact the story with their votes. The idea was that each person could have their own little knight avatar alongside their favorite dragon.
 
 ---------------------------------------------------
@@ -20,5 +19,6 @@ For achieving the all mighty http"S" I found parspack.com to be my best option. 
 
 # The whole experience
 I really had time making this website. like the week that I was working on this website I legit had fun. Even though bunch of my problems would have been solved with Javascript I pushed forward with the tools I had with my dear PHP. I really hope that in future I could expand this website and I hope I could use more complex programming to be more proud of my self.
+You can check the project out and participate in it, in greendownhill.ir .
 
 ---------------------------------------------------
